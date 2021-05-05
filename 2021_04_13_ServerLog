@@ -1,0 +1,385 @@
+2021-04-13 18:57:20.104456 [info]: timer tick
+2021-04-13 18:57:21.340833 [info]: deal with the client(127.0.0.1)
+2021-04-13 18:57:21.340902 [info]: adjust timer once
+2021-04-13 18:57:21.341046 [info]: GET / HTTP/1.1
+2021-04-13 18:57:21.341078 [info]: Host: 127.0.0.1:9006
+2021-04-13 18:57:21.341085 [info]: Connection: keep-alive
+2021-04-13 18:57:21.341091 [info]: sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+2021-04-13 18:57:21.341096 [info]: oop!unknow header: sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+2021-04-13 18:57:21.341101 [info]: sec-ch-ua-mobile: ?0
+2021-04-13 18:57:21.341105 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-04-13 18:57:21.341110 [info]: Upgrade-Insecure-Requests: 1
+2021-04-13 18:57:21.341114 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-04-13 18:57:21.341119 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+2021-04-13 18:57:21.341124 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+2021-04-13 18:57:21.341129 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-04-13 18:57:21.341134 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-04-13 18:57:21.341138 [info]: Sec-Fetch-Site: none
+2021-04-13 18:57:21.341143 [info]: oop!unknow header: Sec-Fetch-Site: none
+2021-04-13 18:57:21.341147 [info]: Sec-Fetch-Mode: navigate
+2021-04-13 18:57:21.341152 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2021-04-13 18:57:21.341156 [info]: Sec-Fetch-User: ?1
+2021-04-13 18:57:21.341161 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2021-04-13 18:57:21.341166 [info]: Sec-Fetch-Dest: document
+2021-04-13 18:57:21.341173 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2021-04-13 18:57:21.341180 [info]: Accept-Encoding: gzip, deflate, br
+2021-04-13 18:57:21.341185 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-04-13 18:57:21.341191 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-04-13 18:57:21.341197 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-04-13 18:57:21.341203 [info]: Cookie: csrftoken=0izVm5KbZvzVE5kO1VL3pOPESAG2PDVX4wHqRQ22pN9Ba0XKA6kmIJj6H2GCa6cK
+2021-04-13 18:57:21.341209 [info]: oop!unknow header: Cookie: csrftoken=0izVm5KbZvzVE5kO1VL3pOPESAG2PDVX4wHqRQ22pN9Ba0XKA6kmIJj6H2GCa6cK
+2021-04-13 18:57:21.341218 [info]: 
+2021-04-13 18:57:21.341238 [info]: request:HTTP/1.1 200 OK
+
+2021-04-13 18:57:21.341246 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2021-04-13 18:57:21.341251 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2021-04-13 18:57:21.341256 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2021-04-13 18:57:21.358161 [info]: send data to the client(127.0.0.1)
+2021-04-13 18:57:21.358253 [info]: adjust timer once
+2021-04-13 18:57:21.422461 [info]: deal with the client(127.0.0.1)
+2021-04-13 18:57:21.422531 [info]: GET /favicon.ico HTTP/1.1
+2021-04-13 18:57:21.422544 [info]: Host: 127.0.0.1:9006
+2021-04-13 18:57:21.422551 [info]: Connection: keep-alive
+2021-04-13 18:57:21.422556 [info]: sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+2021-04-13 18:57:21.422562 [info]: oop!unknow header: sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"
+2021-04-13 18:57:21.422568 [info]: sec-ch-ua-mobile: ?0
+2021-04-13 18:57:21.422574 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2021-04-13 18:57:21.422580 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+2021-04-13 18:57:21.422586 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+2021-04-13 18:57:21.422597 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2021-04-13 18:57:21.422603 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2021-04-13 18:57:21.422609 [info]: Sec-Fetch-Site: same-origin
+2021-04-13 18:57:21.422615 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2021-04-13 18:57:21.422620 [info]: Sec-Fetch-Mode: no-cors
+2021-04-13 18:57:21.422626 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2021-04-13 18:57:21.422631 [info]: Sec-Fetch-Dest: image
+2021-04-13 18:57:21.422637 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2021-04-13 18:57:21.422642 [info]: Referer: http://127.0.0.1:9006/
+2021-04-13 18:57:21.422651 [info]: oop!unknow header: Referer: http://127.0.0.1:9006/
+2021-04-13 18:57:21.422659 [info]: Accept-Encoding: gzip, deflate, br
+2021-04-13 18:57:21.422667 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br
+2021-04-13 18:57:21.422673 [info]: Accept-Language: zh-CN,zh;q=0.9
+2021-04-13 18:57:21.422679 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2021-04-13 18:57:21.422684 [info]: Cookie: csrftoken=0izVm5KbZvzVE5kO1VL3pOPESAG2PDVX4wHqRQ22pN9Ba0XKA6kmIJj6H2GCa6cK
+2021-04-13 18:57:21.422690 [info]: oop!unknow header: Cookie: csrftoken=0izVm5KbZvzVE5kO1VL3pOPESAG2PDVX4wHqRQ22pN9Ba0XKA6kmIJj6H2GCa6cK
+2021-04-13 18:57:21.422696 [info]: 
+2021-04-13 18:57:21.422717 [info]: request:HTTP/1.1 200 OK
+
+2021-04-13 18:57:21.422726 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2021-04-13 18:57:21.422732 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2021-04-13 18:57:21.422738 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2021-04-13 18:57:21.422750 [info]: adjust timer once
+2021-04-13 18:57:21.457625 [info]: send data to the client(127.0.0.1)
+2021-04-13 18:57:21.457732 [info]: adjust timer once
+2021-04-13 18:57:25.104608 [info]: timer tick
+2021-04-13 18:57:30.104890 [info]: timer tick
+2021-04-13 18:57:35.104958 [info]: timer tick
+2021-04-13 18:57:40.105164 [info]: timer tick
+2021-04-13 18:57:45.105414 [info]: timer tick
+2021-04-13 18:57:49.754815 [info]: deal with the client(192.168.0.127)
+2021-04-13 18:57:49.754948 [info]: adjust timer once
+2021-04-13 18:57:49.755048 [info]: GET / HTTP/1.1
+2021-04-13 18:57:49.755137 [info]: Host: 192.168.0.49:9006
+2021-04-13 18:57:49.755169 [info]: Connection: keep-alive
+2021-04-13 18:57:49.755192 [info]: Upgrade-Insecure-Requests: 1
+2021-04-13 18:57:49.755216 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-04-13 18:57:49.755243 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 18:57:49.755267 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 18:57:49.755288 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-04-13 18:57:49.755310 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-04-13 18:57:49.755330 [info]: Accept-Encoding: gzip, deflate
+2021-04-13 18:57:49.755354 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-04-13 18:57:49.755377 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 18:57:49.755396 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 18:57:49.755418 [info]: 
+2021-04-13 18:57:49.755485 [info]: request:HTTP/1.1 200 OK
+
+2021-04-13 18:57:49.755524 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2021-04-13 18:57:49.755548 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2021-04-13 18:57:49.755573 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2021-04-13 18:57:49.755744 [info]: send data to the client(192.168.0.127)
+2021-04-13 18:57:49.755837 [info]: adjust timer once
+2021-04-13 18:57:50.105630 [info]: timer tick
+2021-04-13 18:57:50.182303 [info]: deal with the client(192.168.0.127)
+2021-04-13 18:57:50.182429 [info]: adjust timer once
+2021-04-13 18:57:50.182536 [info]: GET /favicon.ico HTTP/1.1
+2021-04-13 18:57:50.182613 [info]: Host: 192.168.0.49:9006
+2021-04-13 18:57:50.182641 [info]: Connection: keep-alive
+2021-04-13 18:57:50.182663 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 18:57:50.182687 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 18:57:50.182712 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2021-04-13 18:57:50.182735 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2021-04-13 18:57:50.182758 [info]: Referer: http://192.168.0.49:9006/
+2021-04-13 18:57:50.182782 [info]: oop!unknow header: Referer: http://192.168.0.49:9006/
+2021-04-13 18:57:50.182816 [info]: Accept-Encoding: gzip, deflate
+2021-04-13 18:57:50.182838 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-04-13 18:57:50.182874 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 18:57:50.182896 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 18:57:50.182914 [info]: 
+2021-04-13 18:57:50.182976 [info]: request:HTTP/1.1 200 OK
+
+2021-04-13 18:57:50.183013 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2021-04-13 18:57:50.183033 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2021-04-13 18:57:50.183052 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2021-04-13 18:57:50.183245 [info]: send data to the client(192.168.0.127)
+2021-04-13 18:57:50.183317 [info]: adjust timer once
+2021-04-13 18:57:55.105917 [info]: timer tick
+2021-04-13 18:58:00.106212 [info]: timer tick
+2021-04-13 18:58:05.106518 [info]: timer tick
+2021-04-13 18:58:10.106649 [info]: timer tick
+2021-04-13 18:58:15.106771 [info]: timer tick
+2021-04-13 18:58:20.106882 [info]: timer tick
+2021-04-13 18:58:25.107158 [info]: timer tick
+2021-04-13 18:58:30.107441 [info]: timer tick
+2021-04-13 18:58:35.107694 [info]: timer tick
+2021-04-13 18:58:40.107960 [info]: timer tick
+2021-04-13 18:58:45.108232 [info]: timer tick
+2021-04-13 18:58:50.108513 [info]: timer tick
+2021-04-13 18:58:55.108790 [info]: timer tick
+2021-04-13 18:59:00.109062 [info]: timer tick
+2021-04-13 18:59:05.109161 [info]: timer tick
+2021-04-13 18:59:10.109402 [info]: timer tick
+2021-04-13 18:59:15.109650 [info]: timer tick
+2021-04-13 18:59:20.109828 [info]: timer tick
+2021-04-13 18:59:25.109920 [info]: timer tick
+2021-04-13 18:59:30.110017 [info]: timer tick
+2021-04-13 18:59:35.110125 [info]: timer tick
+2021-04-13 18:59:40.110248 [info]: timer tick
+2021-04-13 18:59:45.110354 [info]: timer tick
+2021-04-13 18:59:50.110474 [info]: timer tick
+2021-04-13 18:59:55.110774 [info]: timer tick
+2021-04-13 19:00:00.111021 [info]: timer tick
+2021-04-13 19:00:05.111279 [info]: timer tick
+2021-04-13 19:00:10.111541 [info]: timer tick
+2021-04-13 19:00:15.111805 [info]: timer tick
+2021-04-13 19:00:20.112103 [info]: timer tick
+2021-04-13 19:00:25.112230 [info]: timer tick
+2021-04-13 19:00:30.112283 [info]: timer tick
+2021-04-13 19:00:35.112509 [info]: timer tick
+2021-04-13 19:00:40.112701 [info]: timer tick
+2021-04-13 19:00:45.112814 [info]: timer tick
+2021-04-13 19:00:50.113096 [info]: timer tick
+2021-04-13 19:00:55.113381 [info]: timer tick
+2021-04-13 19:01:00.113505 [info]: timer tick
+2021-04-13 19:01:05.113756 [info]: timer tick
+2021-04-13 19:01:10.113871 [info]: timer tick
+2021-04-13 19:01:15.114121 [info]: timer tick
+2021-04-13 19:01:20.114425 [info]: timer tick
+2021-04-13 19:01:25.114552 [info]: timer tick
+2021-04-13 19:01:30.114644 [info]: timer tick
+2021-04-13 19:01:35.114758 [info]: timer tick
+2021-04-13 19:01:40.115036 [info]: timer tick
+2021-04-13 19:01:45.115211 [info]: timer tick
+2021-04-13 19:01:50.115339 [info]: timer tick
+2021-04-13 19:01:55.115632 [info]: timer tick
+2021-04-13 19:02:00.115843 [info]: timer tick
+2021-04-13 19:02:05.116111 [info]: timer tick
+2021-04-13 19:02:10.116428 [info]: timer tick
+2021-04-13 19:02:15.116580 [info]: timer tick
+2021-04-13 19:02:20.116703 [info]: timer tick
+2021-04-13 19:02:25.116961 [info]: timer tick
+2021-04-13 19:02:30.117235 [info]: timer tick
+2021-04-13 19:02:35.117510 [info]: timer tick
+2021-04-13 19:02:40.117830 [info]: timer tick
+2021-04-13 19:02:45.117860 [info]: timer tick
+2021-04-13 19:02:50.117979 [info]: timer tick
+2021-04-13 19:02:55.118250 [info]: timer tick
+2021-04-13 19:03:00.118373 [info]: timer tick
+2021-04-13 19:03:05.118492 [info]: timer tick
+2021-04-13 19:03:10.118603 [info]: timer tick
+2021-04-13 19:03:15.118714 [info]: timer tick
+2021-04-13 19:03:20.118733 [info]: timer tick
+2021-04-13 19:03:25.118813 [info]: timer tick
+2021-04-13 19:03:30.118842 [info]: timer tick
+2021-04-13 19:03:35.118892 [info]: timer tick
+2021-04-13 19:03:40.118927 [info]: timer tick
+2021-04-13 19:03:45.119008 [info]: timer tick
+2021-04-13 19:03:50.119057 [info]: timer tick
+2021-04-13 19:03:55.119111 [info]: timer tick
+2021-04-13 19:04:00.119154 [info]: timer tick
+2021-04-13 19:04:05.119208 [info]: timer tick
+2021-04-13 19:04:10.119261 [info]: timer tick
+2021-04-13 19:04:15.119316 [info]: timer tick
+2021-04-13 19:04:20.119337 [info]: timer tick
+2021-04-13 19:04:25.119389 [info]: timer tick
+2021-04-13 19:04:30.119445 [info]: timer tick
+2021-04-13 19:04:35.119498 [info]: timer tick
+2021-04-13 19:04:40.119540 [info]: timer tick
+2021-04-13 19:04:45.119563 [info]: timer tick
+2021-04-13 19:04:50.119584 [info]: timer tick
+2021-04-13 19:04:55.119662 [info]: timer tick
+2021-04-13 19:05:00.119691 [info]: timer tick
+2021-04-13 19:05:05.119734 [info]: timer tick
+2021-04-13 19:05:10.119776 [info]: timer tick
+2021-04-13 19:05:15.119798 [info]: timer tick
+2021-04-13 19:05:20.119855 [info]: timer tick
+2021-04-13 19:05:25.119932 [info]: timer tick
+2021-04-13 19:05:30.119954 [info]: timer tick
+2021-04-13 19:05:35.120003 [info]: timer tick
+2021-04-13 19:05:40.120024 [info]: timer tick
+2021-04-13 19:05:45.120082 [info]: timer tick
+2021-04-13 19:05:50.120132 [info]: timer tick
+2021-04-13 19:05:55.120182 [info]: timer tick
+2021-04-13 19:06:00.120242 [info]: timer tick
+2021-04-13 19:06:05.120261 [info]: timer tick
+2021-04-13 19:06:10.120350 [info]: timer tick
+2021-04-13 19:06:15.120372 [info]: timer tick
+2021-04-13 19:06:20.120394 [info]: timer tick
+2021-04-13 19:06:25.120417 [info]: timer tick
+2021-04-13 19:06:30.120466 [info]: timer tick
+2021-04-13 19:06:35.120486 [info]: timer tick
+2021-04-13 19:06:40.120509 [info]: timer tick
+2021-04-13 19:06:45.120546 [info]: timer tick
+2021-04-13 19:06:50.120620 [info]: timer tick
+2021-04-13 19:06:55.120712 [info]: timer tick
+2021-04-13 19:07:00.120764 [info]: timer tick
+2021-04-13 19:07:05.120846 [info]: timer tick
+2021-04-13 19:07:10.120906 [info]: timer tick
+2021-04-13 19:07:15.120922 [info]: timer tick
+2021-04-13 19:07:20.120947 [info]: timer tick
+2021-04-13 19:07:25.120996 [info]: timer tick
+2021-04-13 19:07:30.121037 [info]: timer tick
+2021-04-13 19:07:35.121062 [info]: timer tick
+2021-04-13 19:07:40.121087 [info]: timer tick
+2021-04-13 19:07:45.121119 [info]: timer tick
+2021-04-13 19:07:50.121141 [info]: timer tick
+2021-04-13 19:07:55.121192 [info]: timer tick
+2021-04-13 19:08:00.121216 [info]: timer tick
+2021-04-13 19:08:05.121266 [info]: timer tick
+2021-04-13 19:08:10.121319 [info]: timer tick
+2021-04-13 19:08:15.121369 [info]: timer tick
+2021-04-13 19:08:20.121415 [info]: timer tick
+2021-04-13 19:08:25.121460 [info]: timer tick
+2021-04-13 19:08:30.121518 [info]: timer tick
+2021-04-13 19:08:35.121546 [info]: timer tick
+2021-04-13 19:08:40.121587 [info]: timer tick
+2021-04-13 19:08:45.121622 [info]: timer tick
+2021-04-13 19:08:50.121646 [info]: timer tick
+2021-04-13 19:08:55.121697 [info]: timer tick
+2021-04-13 19:09:00.121719 [info]: timer tick
+2021-04-13 19:09:05.121743 [info]: timer tick
+2021-04-13 19:09:10.121765 [info]: timer tick
+2021-04-13 19:09:15.121809 [info]: timer tick
+2021-04-13 19:09:20.121835 [info]: timer tick
+2021-04-13 19:09:25.121857 [info]: timer tick
+2021-04-13 19:09:30.121906 [info]: timer tick
+2021-04-13 19:09:35.121964 [info]: timer tick
+2021-04-13 19:09:40.122016 [info]: timer tick
+2021-04-13 19:09:45.122039 [info]: timer tick
+2021-04-13 19:09:50.122086 [info]: timer tick
+2021-04-13 19:09:55.122141 [info]: timer tick
+2021-04-13 19:54:12.506835 [info]: timer tick
+2021-04-13 19:54:12.943911 [info]: deal with the client(192.168.0.127)
+2021-04-13 19:54:12.944061 [info]: adjust timer once
+2021-04-13 19:54:12.944186 [info]: GET / HTTP/1.1
+2021-04-13 19:54:12.944282 [info]: Host: 192.168.0.49:9006
+2021-04-13 19:54:12.944314 [info]: Connection: keep-alive
+2021-04-13 19:54:12.944347 [info]: Cache-Control: max-age=0
+2021-04-13 19:54:12.944372 [info]: oop!unknow header: Cache-Control: max-age=0
+2021-04-13 19:54:12.944395 [info]: Upgrade-Insecure-Requests: 1
+2021-04-13 19:54:12.944418 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-04-13 19:54:12.944441 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 19:54:12.944466 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 19:54:12.944488 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-04-13 19:54:12.944511 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2021-04-13 19:54:12.944532 [info]: Accept-Encoding: gzip, deflate
+2021-04-13 19:54:12.944555 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-04-13 19:54:12.944580 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 19:54:12.944604 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 19:54:12.944628 [info]: 
+2021-04-13 19:54:12.944696 [info]: request:HTTP/1.1 200 OK
+
+2021-04-13 19:54:12.944735 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2021-04-13 19:54:12.944761 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2021-04-13 19:54:12.944785 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2021-04-13 19:54:12.944972 [info]: send data to the client(192.168.0.127)
+2021-04-13 19:54:12.945047 [info]: adjust timer once
+2021-04-13 19:54:13.333334 [info]: deal with the client(192.168.0.127)
+2021-04-13 19:54:13.333485 [info]: adjust timer once
+2021-04-13 19:54:13.333634 [info]: GET /favicon.ico HTTP/1.1
+2021-04-13 19:54:13.333726 [info]: Host: 192.168.0.49:9006
+2021-04-13 19:54:13.333756 [info]: Connection: keep-alive
+2021-04-13 19:54:13.333778 [info]: Pragma: no-cache
+2021-04-13 19:54:13.333804 [info]: oop!unknow header: Pragma: no-cache
+2021-04-13 19:54:13.333830 [info]: Cache-Control: no-cache
+2021-04-13 19:54:13.333851 [info]: oop!unknow header: Cache-Control: no-cache
+2021-04-13 19:54:13.333880 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 19:54:13.333905 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+2021-04-13 19:54:13.333926 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2021-04-13 19:54:13.333951 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2021-04-13 19:54:13.333975 [info]: Referer: http://192.168.0.49:9006/
+2021-04-13 19:54:13.333995 [info]: oop!unknow header: Referer: http://192.168.0.49:9006/
+2021-04-13 19:54:13.334019 [info]: Accept-Encoding: gzip, deflate
+2021-04-13 19:54:13.334039 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-04-13 19:54:13.334081 [info]: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 19:54:13.334106 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+2021-04-13 19:54:13.334128 [info]: 
+2021-04-13 19:54:13.334195 [info]: request:HTTP/1.1 200 OK
+
+2021-04-13 19:54:13.334232 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2021-04-13 19:54:13.334253 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2021-04-13 19:54:13.334275 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2021-04-13 19:54:13.334458 [info]: send data to the client(192.168.0.127)
+2021-04-13 19:54:13.334545 [info]: adjust timer once
+2021-04-13 19:54:17.506957 [info]: timer tick
+2021-04-13 19:54:22.507069 [info]: timer tick
+2021-04-13 19:54:27.507404 [info]: timer tick
+2021-04-13 19:54:32.507722 [info]: timer tick
+2021-04-13 19:54:37.507980 [info]: timer tick
+2021-04-13 19:54:42.508251 [info]: timer tick
+2021-04-13 19:54:47.508525 [info]: timer tick
+2021-04-13 19:54:52.508655 [info]: timer tick
